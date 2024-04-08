@@ -1,4 +1,4 @@
-module github.com/edoardottt/defango
+module github.com/rheoli/defango
 
 go 1.21.1
 
